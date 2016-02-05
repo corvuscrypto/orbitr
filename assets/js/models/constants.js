@@ -1,2 +1,4 @@
 var G = 6.673e-11;
-var MASS_SCALE = 1e24;
+var MASS_SCALE = 5.972e24;
+var DIST_SCALE = 318550;
+var RESULT_SCALE = 0.1;
