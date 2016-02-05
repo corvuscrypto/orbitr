@@ -1,0 +1,7 @@
+.game-screen {
+  width: 800px;
+  height: 600px;
+  /* add border */
+  border: 1px solid black;
+  margin: auto;
+}
